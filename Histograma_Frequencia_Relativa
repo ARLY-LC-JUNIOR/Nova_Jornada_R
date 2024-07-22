@@ -2,8 +2,7 @@
 #A frequência relativa compara a quantidade de respostas de um dado específico, com a quantidade total de respostas coletadas em uma pesquisa estatística. Esta comparação entre uma parte das respostas em relação ao todo é feita através de uma divisão.
 
 library(ggplot2)
-DataSet = airquality
-
-ggplot(DataSet,aes(x = Wind, y = (..count.. / sum(..count..))*100 ) ) + 
-  geom_histogram(col = "red", fill= "blue")+
-   labs(x = "Velocidade do Vento [M/S]", y = 'Frequencia Relativa [%]')
+ DataSet = airquality
+  ggplot(DataSet,aes(x = Wind, y = (..count.. / sum(..count..))*100 ) ) + 
+   geom_histogram(col = "red", fill= "blue")+
+    labs(x = "Velocidade do Vento [M/S]", y = 'Frequencia Relativa [%]')
