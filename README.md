@@ -1,10 +1,10 @@
-# 📊 **Nova Jornada R | Exploração de Dados e Estatística**
+## 📊 **Nova Jornada R | Exploração de Dados e Estatística**
 
 Bem-vindo ao **Nova Jornada R**, um repositório dedicado à exploração de dados, estatísticas e visualizações usando a linguagem **R**. Este espaço é ideal para quem deseja aprender, praticar e aprimorar suas habilidades em análise de dados e ciência de dados.
 
 ---
 
-## 🎯 **Objetivo**
+### 🎯 **Objetivo**
 
 O principal objetivo deste repositório é **desmistificar a estatística e a análise de dados** por meio de exemplos práticos e acessíveis. Aqui você encontrará:
 
@@ -15,7 +15,7 @@ O principal objetivo deste repositório é **desmistificar a estatística e a an
 
 ---
 
-## 🔧 **Por Que Usar R?**
+### 🔧 **Por Que Usar R?**
 
 **R** é uma das ferramentas mais poderosas para análise de dados e estatística. Suas principais vantagens incluem:
 
@@ -27,7 +27,7 @@ O principal objetivo deste repositório é **desmistificar a estatística e a an
 ---
 
 
-## 📂 **Estrutura do Repositório**
+### 📂 **Estrutura do Repositório**
 ```
 Aqui está como o repositório está organizado:
 ├── .gitignore # Arquivos ignorados pelo Git
@@ -36,7 +36,7 @@ Aqui está como o repositório está organizado:
 ├── README.md # Documentação principal
 └── Rplot.pdf # Exemplo de gráfico gerado (histograma)
 ```
-## 🌟 **Projetos Destacados**
+### 🌟 **Projetos Destacados**
 
 1. **Histograma de Frequência Relativa**
    - Um exemplo prático de como criar histogramas que representam frequências relativas.
@@ -48,7 +48,7 @@ Aqui está como o repositório está organizado:
 
 ---
 
-## 🚀 **Como Contribuir**
+### 🚀 **Como Contribuir**
 
 Se você também está interessado em **aprender R**, **compartilhar conhecimentos** ou **colaborar em projetos**, fique à vontade para:
 
@@ -70,7 +70,7 @@ Juntos, podemos criar um recurso ainda mais completo e útil para a comunidade!
 
 ---
 
-✨ **Próximos Passos**
+### ✨ **Próximos Passos**
 Expandir o repositório com:
 - Análise de séries temporais.
 - Modelos preditivos com machine learning.
@@ -78,4 +78,4 @@ Expandir o repositório com:
 
 ---
 
-🚀 **Vamos juntos nessa jornada de aprendizado e descoberta com R!**
+### 🚀 **Vamos juntos nessa jornada de aprendizado e descoberta com R!**
